@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": " https://i.ibb.co/hcvs4XD/1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna arcu, volutpat in nulla quis, imperdiet tristique nisi. Morbi ultricies purus elit, sit amet scelerisque eros auctor at. Curabitur et enim eget purus egestas dapibus. Quisque id erat ligula."
+    },
+    {
+        "id": 2,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": " https://i.ibb.co/P90ct5b/2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna arcu, volutpat in nulla quis, imperdiet tristique nisi. Morbi ultricies purus elit, sit amet scelerisque eros auctor at. Curabitur et enim eget purus egestas dapibus. Quisque id erat ligula."
+    },
+    {
+        "id": 3,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": " https://i.ibb.co/h1TB5Dd/3.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna arcu, volutpat in nulla quis, imperdiet tristique nisi. Morbi ultricies purus elit, sit amet scelerisque eros auctor at. Curabitur et enim eget purus egestas dapibus. Quisque id erat ligula."
+    },
+    {
+        "id": 4,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": " https://i.ibb.co/Bcpb180/4.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna arcu, volutpat in nulla quis, imperdiet tristique nisi. Morbi ultricies purus elit, sit amet scelerisque eros auctor at. Curabitur et enim eget purus egestas dapibus. Quisque id erat ligula."
+    },
+    {
+        "id": 5,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/dpLJJqz/5.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna arcu, volutpat in nulla quis, imperdiet tristique nisi. Morbi ultricies purus elit, sit amet scelerisque eros auctor at. Curabitur et enim eget purus egestas dapibus. Quisque id erat ligula."
+    },
+    {
+        "id": 6,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "img": " https://i.ibb.co/6ZLHsx6/6.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna arcu, volutpat in nulla quis, imperdiet tristique nisi. Morbi ultricies purus elit, sit amet scelerisque eros auctor at. Curabitur et enim eget purus egestas dapibus. Quisque id erat ligula."
+    }
+]
